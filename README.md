@@ -5,7 +5,8 @@ I'm a college graduate with a bachelor's degree who has always wanted to create 
 I’m currently learning the Unreal Engine to build upon my prior education and fill in any blanks that were left after graduation.
 
 I currently have three Unreal Engine projects here, one of which (Dungeon Delve) I am currently working on. 
-My longterm goal for these projects is to turn it into a proper game that people find fun to play, and can be excellent addition to a portfolio.
+
+My longterm goal for these projects is to learn more with each project, experimenting with new systems and components to eventually create a more complete and professional looking project.
 
 You can reach me via email at lancastermaster@outlook.com.
 
